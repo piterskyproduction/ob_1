@@ -2,6 +2,7 @@ import copy
 from math import comb
 from tkinter import *
 import numpy as np
+#я сдам лабыыыыыы
 root = Tk()
 root.geometry('800x660+1+1')
 root.config(bg="#0f0f0f")
